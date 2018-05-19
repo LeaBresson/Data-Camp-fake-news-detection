@@ -1,6 +1,7 @@
 # Data-Camp-fake-news-detection
 
 **Fake news detection**: a kaggle-like competition on the RAMP ecosystem.
+
 Course: Data Camp (Balazs Kegl, Alexandre Gramfort - M2 Data Science).
 
 ## Context
